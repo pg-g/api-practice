@@ -1,0 +1,59 @@
+body {
+	width: 80%;
+	margin: 5% auto;
+	font-family: Helvetica;
+}
+
+.form {
+	background-color: #008E94;
+	padding: 25px;
+	text-align: center;
+}
+
+.results {
+	background-color: #E3D8B3;
+	padding: 25px;
+	text-align: center;
+	min-height: 200px;
+}
+
+h4 {
+	margin-bottom: 5px;
+}
+
+.company {
+	font-style: italic;
+	font-size: 11px
+}
+
+.stats > p {
+	display: inline;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+
+h3 {
+	color: white;
+	margin-top: 0px;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	border: 10px solid white;
+}
+
+input {
+	height: 30px;
+	width: 260px;
+	border: none;
+}
+
+button {
+	height: 30px;
+	border: none;
+	background-color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+}
