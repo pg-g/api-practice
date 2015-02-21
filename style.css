@@ -11,19 +11,19 @@ body {
 }
 
 .results {
-	background-color: #E3D8B3;
+	background-color: #f8f5eb;
 	padding: 25px;
 	text-align: center;
 	min-height: 200px;
 }
 
-h4 {
-	margin-bottom: 5px;
-}
-
 .company {
 	font-style: italic;
 	font-size: 11px
+}
+
+.stats {
+	margin-top: 40px;
 }
 
 .stats > p {
@@ -36,6 +36,11 @@ h4 {
 h3 {
 	color: white;
 	margin-top: 0px;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
 }
 
 img {
